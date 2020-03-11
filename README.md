@@ -1,2 +1,2 @@
-# Beating_note
-# 游戏开发导论结课作品
+# Beating_note源码
+version：1.0
